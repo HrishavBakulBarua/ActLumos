@@ -29,6 +29,7 @@ Action recognition in dark, low-light (under-exposed) or noisy videos is a chall
 
 ## Our work utilizes the following:
 
+### <ins>Basic Neural Network and DL models</ins>
 
 ### <ins>State-of-the-art learning models for action/activity recognition in the dark</ins>
 
