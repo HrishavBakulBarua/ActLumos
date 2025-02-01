@@ -31,6 +31,9 @@ Action recognition in dark, low-light (under-exposed) or noisy videos is a chall
 
 ### <ins>Basic Neural Network and DL models</ins>
 
+`ICLR 2015` | `VGG-TS` - Very Deep Convolutional Networks for Large-Scale Image Recognition | [Code](https://github.com/Prabhu204/Very-Deep-Convolutional-Networks-for-Large-Scale-Image-Recognition)
+
+
 ### <ins>State-of-the-art learning models for action/activity recognition in the dark</ins>
 
 
