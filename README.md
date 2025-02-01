@@ -33,6 +33,8 @@ Action recognition in dark, low-light (under-exposed) or noisy videos is a chall
 
 `ICLR 2015` | `VGG-TS` - Very Deep Convolutional Networks for Large-Scale Image Recognition | [Code](https://github.com/Prabhu204/Very-Deep-Convolutional-Networks-for-Large-Scale-Image-Recognition)
 
+`ECCV 2016` | `TSN` - Temporal segment networks: Towards good practices for deep action recognition | [Code](https://github.com/Ruiyang-061X/TSN)
+
 
 ### <ins>State-of-the-art learning models for action/activity recognition in the dark</ins>
 
