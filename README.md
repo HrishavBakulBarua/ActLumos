@@ -35,6 +35,8 @@ Action recognition in dark, low-light (under-exposed) or noisy videos is a chall
 
 `ECCV 2016` | `TSN` - Temporal segment networks: Towards good practices for deep action recognition | [Code](https://github.com/Ruiyang-061X/TSN)
 
+`CVPR 2018` | `R(2+1)D` -  A closer look at spatiotemporal convolutions for action recognition | [Code](https://github.com/leftthomas/R2Plus1D-C3D)
+
 
 ### <ins>State-of-the-art learning models for action/activity recognition in the dark</ins>
 
