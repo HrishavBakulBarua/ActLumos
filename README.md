@@ -54,6 +54,8 @@ Action recognition in dark, low-light (under-exposed) or noisy videos is a chall
 
 `IEEE TAI` | `R(2 + 1)D-GCN+BERT` - Action Recognition in Dark Videos using Spatio-temporal Features and Bidirectional Encoder Representations from Transformers | [Code](https://www.isical.ac.in/~ash/Action_Recognition_in_Dark_Videos_using_Spatio-temporal_Features_and_Bidirectional_Encoder_Representations_from_Transformers.pdf)
 
+`IEEE TIP` | `DTCM` - DTCM: Joint Optimization of Dark Enhancement and Action Recognition in Videos | [Code](https://www.researchgate.net/publication/371698911_DTCM_Joint_Optimization_of_Dark_Enhancement_and_Action_Recognition_in_Videos)
+
 
 ### <ins>Action recognition datasets for dark videos</ins>
 
