@@ -39,20 +39,20 @@ Action recognition in dark, low-light (under-exposed) or noisy videos is a chall
 
 `ICCV 2017` | `Pseudo-3D-199` - Learning Spatio-Temporal Representation with Pseudo-3D Residual Networks | [Code](https://github.com/ZhaofanQiu/pseudo-3d-residual-networks)
 
-`CVPR 2018` | `R(2 + 1)D` -  A closer look at spatiotemporal convolutions for action recognition | [Code](https://github.com/leftthomas/R2Plus1D-C3D)
+`CVPR 2018` | `R(2+1)D` -  A closer look at spatiotemporal convolutions for action recognition | [Code](https://github.com/leftthomas/R2Plus1D-C3D)
 
-`CVPR 2018` | `3D-ResNet-50`, `3D-ResNet-101` - Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet? | [Code](https://github.com/kenshohara/3D-ResNets-PyTorch)
+`CVPR 2018` | `3D-ResNet-18`, `3D-ResNet-50`, `3D-ResNet-101` - Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet? | [Code](https://github.com/kenshohara/3D-ResNets-PyTorch)
 
 
 ### <ins>State-of-the-art learning models for action/activity recognition in the dark</ins>
 
-`CVPRW 2021` | `DarkLight-ResNeXt-101`, `DarkLight-R(2 + 1)D-34` - DarkLight Networks for Action Recognition in the Dark | [Code](https://github.com/Ticuby/Darklight-Pytorch)
+`CVPRW 2021` | `DarkLight-ResNeXt-101`, `DarkLight-R(2+1)D-34` - DarkLight Networks for Action Recognition in the Dark | [Code](https://github.com/Ticuby/Darklight-Pytorch)
 
 `CVPRW 2021` | `MRAN` - Delta Sampling R-BERT for Limited Data and Low-Light Action Recognition | [Code](https://openaccess.thecvf.com/content/CVPR2021W/UG2/papers/Hira_Delta_Sampling_R-BERT_for_Limited_Data_and_Low-Light_Action_Recognition_CVPRW_2021_paper.pdf)
 
 `AAAI 2023` | `SCI + R(2 + 1)D-GCN` - Two-Streams: Dark and Light Networks with Graph Convolution for Action Recognition from Dark Videos | [Code](https://ojs.aaai.org/index.php/AAAI/article/view/27030)
 
-`IEEE TAI` | `R(2 + 1)D-GCN+BERT` - Action Recognition in Dark Videos using Spatio-temporal Features and Bidirectional Encoder Representations from Transformers | [Code](https://www.isical.ac.in/~ash/Action_Recognition_in_Dark_Videos_using_Spatio-temporal_Features_and_Bidirectional_Encoder_Representations_from_Transformers.pdf)
+`IEEE TAI` | `R(2+1)D-GCN+BERT` - Action Recognition in Dark Videos using Spatio-temporal Features and Bidirectional Encoder Representations from Transformers | [Code](https://www.isical.ac.in/~ash/Action_Recognition_in_Dark_Videos_using_Spatio-temporal_Features_and_Bidirectional_Encoder_Representations_from_Transformers.pdf)
 
 `IEEE TIP` | `DTCM` - DTCM: Joint Optimization of Dark Enhancement and Action Recognition in Videos | [Code](https://www.researchgate.net/publication/371698911_DTCM_Joint_Optimization_of_Dark_Enhancement_and_Action_Recognition_in_Videos)
 
