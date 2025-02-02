@@ -50,6 +50,8 @@ Action recognition in dark, low-light (under-exposed) or noisy videos is a chall
 
 `CVPRW 2021` | `MRAN` - Delta Sampling R-BERT for Limited Data and Low-Light Action Recognition | [Code](https://openaccess.thecvf.com/content/CVPR2021W/UG2/papers/Hira_Delta_Sampling_R-BERT_for_Limited_Data_and_Low-Light_Action_Recognition_CVPRW_2021_paper.pdf)
 
+`AAAI 2023` | `SCI + R(2 + 1)D-GCN` - Two-Streams: Dark and Light Networks with Graph Convolution for Action Recognition from Dark Videos | [Code](https://ojs.aaai.org/index.php/AAAI/article/view/27030)
+
 
 
 ### <ins>Action recognition datasets for dark videos</ins>
