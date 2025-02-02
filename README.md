@@ -35,7 +35,7 @@ Action recognition in dark, low-light (under-exposed) or noisy videos is a chall
 
 `ECCV 2016` | `TSN` - Temporal segment networks: Towards good practices for deep action recognition | [Code](https://github.com/Ruiyang-061X/TSN)
 
-`CVPR 2017` | `I3D-RGB` - Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset | [Code](https://github.com/piergiaj/pytorch-i3d)
+`CVPR 2017` | `I3D-RGB`, `I3D Two-stream` - Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset | [Code](https://github.com/piergiaj/pytorch-i3d)
 
 `ICCV 2017` | `Pseudo-3D-199` - Learning Spatio-Temporal Representation with Pseudo-3D Residual Networks | [Code](https://github.com/ZhaofanQiu/pseudo-3d-residual-networks)
 
