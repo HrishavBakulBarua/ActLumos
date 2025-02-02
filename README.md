@@ -52,6 +52,7 @@ Action recognition in dark, low-light (under-exposed) or noisy videos is a chall
 
 `AAAI 2023` | `SCI + R(2 + 1)D-GCN` - Two-Streams: Dark and Light Networks with Graph Convolution for Action Recognition from Dark Videos | [Code](https://ojs.aaai.org/index.php/AAAI/article/view/27030)
 
+`IEEE TAI` | `R(2 + 1)D-GCN+BERT` - Action Recognition in Dark Videos using Spatio-temporal Features and Bidirectional Encoder Representations from Transformers | [Code](https://www.isical.ac.in/~ash/Action_Recognition_in_Dark_Videos_using_Spatio-temporal_Features_and_Bidirectional_Encoder_Representations_from_Transformers.pdf)
 
 
 ### <ins>Action recognition datasets for dark videos</ins>
