@@ -46,6 +46,8 @@ Action recognition in dark, low-light (under-exposed) or noisy videos is a chall
 
 ### <ins>State-of-the-art learning models for action/activity recognition in the dark</ins>
 
+`CVPRW 2021` | `DarkLight-ResNeXt-101` - DarkLight Networks for Action Recognition in the Dark | [Code](https://github.com/Ticuby/Darklight-Pytorch)
+
 
 
 ### <ins>Action recognition datasets for dark videos</ins>
