@@ -39,6 +39,8 @@ Action recognition in dark, low-light (under-exposed) or noisy videos is a chall
 
 `CVPR 2018` | `R(2 + 1)D` -  A closer look at spatiotemporal convolutions for action recognition | [Code](https://github.com/leftthomas/R2Plus1D-C3D)
 
+`CVPR 2018` | `3D-ResNet-50` - Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet? | [Code](https://github.com/kenshohara/3D-ResNets-PyTorch)
+
 
 ### <ins>State-of-the-art learning models for action/activity recognition in the dark</ins>
 
