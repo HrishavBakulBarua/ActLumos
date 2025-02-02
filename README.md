@@ -33,7 +33,7 @@ Action recognition in dark, low-light (under-exposed) or noisy videos is a chall
 
 `ICLR 2015` | `VGG-TS` - Very Deep Convolutional Networks for Large-Scale Image Recognition | [Code](https://github.com/Prabhu204/Very-Deep-Convolutional-Networks-for-Large-Scale-Image-Recognition)
 
-`ECCV 2016` | `TSN` - Temporal segment networks: Towards good practices for deep action recognition | [Code](https://github.com/Ruiyang-061X/TSN)
+`ECCV 2016` | `TSN` - Temporal Segment Networks: Towards Good Practices for Deep Action Recognition | [Code](https://github.com/Ruiyang-061X/TSN)
 
 `CVPR 2017` | `I3D-RGB`, `I3D Two-stream` - Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset | [Code](https://github.com/piergiaj/pytorch-i3d)
 
@@ -47,6 +47,8 @@ Action recognition in dark, low-light (under-exposed) or noisy videos is a chall
 ### <ins>State-of-the-art learning models for action/activity recognition in the dark</ins>
 
 `CVPRW 2021` | `DarkLight-ResNeXt-101` - DarkLight Networks for Action Recognition in the Dark | [Code](https://github.com/Ticuby/Darklight-Pytorch)
+
+`CVPRW 2021` | `MRAN` - Delta Sampling R-BERT for Limited Data and Low-Light Action Recognition | [Code](https://openaccess.thecvf.com/content/CVPR2021W/UG2/papers/Hira_Delta_Sampling_R-BERT_for_Limited_Data_and_Low-Light_Action_Recognition_CVPRW_2021_paper.pdf)
 
 
 
