@@ -59,3 +59,7 @@ Action recognition in dark, low-light (under-exposed) or noisy videos is a chall
 
 ### <ins>Action recognition datasets for dark videos</ins>
 
+`DL-HAR 2020` | `ARID V1.0` & `ARID V1.5` | ARID: A New Dataset for Recognizing Action in the Dark | [Link1](https://github.com/xuyu0010/ARID_v1); [Link2](https://xuyu0010.github.io/arid.html)
+
+
+
