@@ -68,5 +68,16 @@ Action recognition in dark, low-light (under-exposed) or noisy videos is a chall
 
 `ACCV 2024` | `ELLAR` | An Action Recognition Dataset for Extremely Low-Light Conditions with Dual Gamma Adaptive Modulation | [Link](https://sites.google.com/view/knu-ellar/)
 
+## License and Copyright
+
+
+~~~
+----------------------------------------------------------------------------------------
+Copyright 2024 | All the authors and contributors of this repository as mentioned above.
+----------------------------------------------------------------------------------------
+
+~~~
+
+Please check the [License](LICENSE) Agreement.
 
 
