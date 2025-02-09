@@ -6,7 +6,7 @@
 
 This page contains all the Datasets and Code bases (experiments and evaluations) involved in experimenting and establishing our newly proposed **MD-BERT or MultiDark-BERT** framework for video action recognition in the Dark.
 
-The official repository of the paper with supplementary: [MD-BERT]()!!
+The official repository of the paper with supplementary: [MD-BERT](https://arxiv.org/pdf/2502.03724)!!
 
 ## About the project
 
@@ -67,6 +67,20 @@ Action recognition in dark, low-light (under-exposed) or noisy videos is a chall
 `DL-HAR 2020` | `ARID V1.0` & `ARID V1.5` | ARID: A New Dataset for Recognizing Action in the Dark | [Link1](https://github.com/xuyu0010/ARID_v1); [Link2](https://xuyu0010.github.io/arid.html)
 
 `ACCV 2024` | `ELLAR` | An Action Recognition Dataset for Extremely Low-Light Conditions with Dual Gamma Adaptive Modulation | [Link](https://sites.google.com/view/knu-ellar/)
+
+##  Citation 
+
+If you find our work (i.e. the code, the theory/concept, or the dataset) useful for your research or development activities, please consider citing our work as follows:
+
+~~~
+@article{dass2025md,
+  title={MD-BERT: Action Recognition in Dark Videos via Dynamic Multi-Stream Fusion and Temporal Modeling},
+  author={Dass, Sharana Dharshikgan Suresh and Barua, Hrishav Bakul and Krishnasamy, Ganesh and Paramesran, Raveendran and Phan, Raphael C-W},
+  journal={arXiv preprint arXiv:2502.03724},
+  year={2025}
+}
+~~~
+
 
 ## License and Copyright
 
