@@ -31,6 +31,13 @@ Action recognition in dark, low-light (under-exposed) or noisy videos is a chall
 
 ![My Image](assets/DFF.png)
 
+### Dataset samples
+
+We use gamma correction and histogram equalization alongside raw dark frames as input to our pipeline.
+
+![My Image](assets/dataset.png)
+
+
 
 ## Our work utilizes the following:
 
