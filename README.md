@@ -33,11 +33,16 @@ Action recognition in dark, low-light (under-exposed) or noisy videos is a chall
 
 ### Dataset samples
 
-We use gamma correction and histogram equalization alongside raw dark frames as input to our pipeline.
+We use gamma correction and histogram equalization alongside raw dark frames as input to our pipeline. Visual illustration of Gamma enhanced images and histogram equalised images based 5 different classes of ARID dataset.
 
 ![My Image](assets/dataset.png)
 
 
+### Histograms of dataset
+
+verage histograms for (a) Dark frames, (b) Gamma-enhanced frames (γ = 2.5), and (c) Histogram-equalized frames. The dark frame histogram (left) illustrates the dominance of low-intensity values, reflecting the inherent challenges of low-light videos. The gamma-enhanced histogram (middle) shifts pixel intensities towards higher brightness, effectively enhancing visibility in dark regions. The histogram-equalized frame (right) shows a broader distribution of intensity values, improving contrast by redistributing intensities.
+
+![My Image](assets/histograms.png)
 
 ## Our work utilizes the following:
 
