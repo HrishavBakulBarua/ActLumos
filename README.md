@@ -80,6 +80,15 @@ verage histograms for (a) Dark frames, (b) Gamma-enhanced frames (γ = 2.5), and
 
 `ACCV 2024` | `ELLAR` | An Action Recognition Dataset for Extremely Low-Light Conditions with Dual Gamma Adaptive Modulation | [Link](https://sites.google.com/view/knu-ellar/)
 
+
+## Experiments and Results
+
+![My Image](assets/results_1.png)
+
+![My Image](assets/results_2.png)
+
+For more details and experimental results please check out the paper!!
+
 ##  Citation 
 
 If you find our work (i.e. the code, the theory/concept, or the dataset) useful for your research or development activities, please consider citing our work as follows:
