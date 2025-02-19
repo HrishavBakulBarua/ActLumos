@@ -60,7 +60,7 @@ verage histograms for (a) Dark frames, (b) Gamma-enhanced frames (γ = 2.5), and
 
 `CVPR 2018` | `3D-ResNet-18`, `3D-ResNet-50`, `3D-ResNet-101` - Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet? | [Code](https://github.com/kenshohara/3D-ResNets-PyTorch)
 
-`NAACL 2019 | `BERT` - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | [Code](https://github.com/google-research/bert)
+`NAACL 2019` | `BERT` - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | [Code](https://github.com/google-research/bert)
 
 
 ### <ins>State-of-the-art learning models for action/activity recognition in the dark</ins>
