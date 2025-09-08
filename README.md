@@ -1,6 +1,6 @@
 # We will release the code soon!! #
 
-# MD-BERT: Action Recognition in Dark Videos via Dynamic Multi-Stream Fusion and Temporal Modeling
+# Seeing in the Dark: A Teacher–Student Framework for Dark Video Action Recognition via Knowledge Distillation and Contrastive Learning
 
 ![My Image](assets/IJCNN-25-Arch.png)
 
