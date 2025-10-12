@@ -118,7 +118,6 @@ our proposed approach
 
 ![My Image](assets/results_3.png)
 
-For more details and experimental results please check out the paper!!
  
 
 Effect of unlabeled SSL pretraining source on downstream Top-1 accuracy for
@@ -130,6 +129,9 @@ pretraining is best across all datasets, and in-domain SSL consistently outperfo
 domain SSL
 
 ![My Image](assets/plots.png)
+
+For more details and experimental results please check out the paper!!
+
 
 ##  Citation 
 
