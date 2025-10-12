@@ -119,6 +119,17 @@ our proposed approach
 ![My Image](assets/results_3.png)
 
 For more details and experimental results please check out the paper!!
+ 
+
+Effect of unlabeled SSL pretraining source on downstream Top-1 accuracy for
+**ARID V1.0**, **ARID V1.5**, and **Dark48**. Each group compares SSL on ARID-only,
+Dark48-only, and ARID+Dark48 (combined). Red dashed lines denote the KD-only (no
+SSL) baseline for that dataset. Numbers above bars show absolute accuracy, with the
+improvement over KD-only shown at the bottom (near the x-axis) of the chart. Combined
+pretraining is best across all datasets, and in-domain SSL consistently outperforms cross-
+domain SSL
+
+![My Image](assets/plots.png)
 
 ##  Citation 
 
