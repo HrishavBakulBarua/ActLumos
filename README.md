@@ -98,6 +98,8 @@ We use gamma correction and retinex-enhanced images alongside raw dark frames as
 
 `ACCV 2024` | `ELLAR` | An Action Recognition Dataset for Extremely Low-Light Conditions with Dual Gamma Adaptive Modulation | [Link](https://sites.google.com/view/knu-ellar/)
 
+`IEEE TIP 2023` | `Dark48` | Dark-48: a dark video dataset for action recognition in the dark | [Link](https://github.com/yzfly/Dark48)
+
 
 ## Experiments and Results
 
