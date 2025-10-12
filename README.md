@@ -4,7 +4,7 @@
 
 ![My Image](assets/abstract_img.png)
 
-This page contains all the Datasets and Code bases (experiments and evaluations) involved in experimenting and establishing our newly proposed **MD-BERT or MultiDark-BERT** framework for video action recognition in the Dark.
+This page contains all the Datasets and Code bases (experiments and evaluations) involved in experimenting and establishing our newly proposed **ActLumos** framework for video action recognition in the Dark.
 
 The official repository of the paper with supplementary: [MD-BERT](https://arxiv.org/pdf/2502.03724) | ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=HrishavBakulBarua.DarkBERT)
 
