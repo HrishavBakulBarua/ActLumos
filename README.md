@@ -103,9 +103,18 @@ We use gamma correction and retinex-enhanced images alongside raw dark frames as
 
 ## Experiments and Results
 
+Table 1: Top-1 and Top-5 accuracy results on ARID V1.0 for several competitive methods
+and our proposed approach
+
 ![My Image](assets/results_1.png)
 
+Table 2: Top-1 and Top-5 accuracy results on ARID V1.5 for several competitive methods
+and our proposed approach
+
 ![My Image](assets/results_2.png)
+
+Table 3: Top-1 and Top-5 accuracy results on Dark48 for several competitive methods and
+our proposed approach
 
 ![My Image](assets/results_3.png)
 
