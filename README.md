@@ -51,7 +51,7 @@ is a positive ($${\color{pink}pink}$$), while clips from other classes are negat
 
 ### Dataset samples
 
-We use gamma correction and retinex-enhanced images alongside raw dark frames as input to our pipeline. Examples of dark frames (top) and their retinex-enhanced counterparts (middle) and gamma-corrected frames, across actions (pour, pick, walk, stand, drink).
+We use gamma correction and retinex-enhanced images alongside raw dark frames as input to our pipeline. Examples of dark frames (top) and their retinex-enhanced counterparts (middle) and gamma-corrected frames, across actions (pour, pick, walk, stand, drink). Here the dark frames are from ARID dataset.
 
 ![My Image](assets/channels.png)
 
