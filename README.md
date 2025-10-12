@@ -2,7 +2,7 @@
 
 # Seeing in the Dark: A Teacher–Student Framework for Dark Video Action Recognition via Knowledge Distillation and Contrastive Learning
 
-![My Image](assets/IJCNN-25-Arch.png)
+![My Image](assets/abstract.png)
 
 This page contains all the Datasets and Code bases (experiments and evaluations) involved in experimenting and establishing our newly proposed **MD-BERT or MultiDark-BERT** framework for video action recognition in the Dark.
 
