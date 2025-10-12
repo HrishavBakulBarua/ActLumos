@@ -107,6 +107,8 @@ We use gamma correction and retinex-enhanced images alongside raw dark frames as
 
 ![My Image](assets/results_2.png)
 
+![My Image](assets/results_3.png)
+
 For more details and experimental results please check out the paper!!
 
 ##  Citation 
