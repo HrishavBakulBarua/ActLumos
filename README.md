@@ -32,7 +32,7 @@ Action recognition in dark or low-light videos is challenging due to severe visi
 
 ### Overall Architecture
 
-![My Image](assets/Arch.png)
+![My Image](assets/arch.png)
 
 ### The Dynamic Feature Fusion (DFF) module proposed in our Architecture
 
