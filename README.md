@@ -34,6 +34,17 @@ Action recognition in dark or low-light videos is challenging due to severe visi
 
 ![My Image](assets/arch.png)
 
+
+### Constrastive Learning
+
+Self-supervised vs supervised contrastive learning. Left (self-supervised): the
+anchor clip (class Pick) has only its own augmented view as a positive (pink edge), all
+other clips in the batch are treated as negatives (green). Right (supervised): with labels,
+every clip from the same class Pick including dark and retinex views of different instances
+is a positive (pink), while clips from other classes are negatives (green).
+
+![My Image](assets/contrastive.png)
+
 ### The Dynamic Feature Fusion (DFF) module proposed in our Architecture
 
 ![My Image](assets/DFF.png)
