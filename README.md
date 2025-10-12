@@ -86,6 +86,11 @@ We use gamma correction and retinex-enhanced images alongside raw dark frames as
 
 `IEEE TIP 2023` | `DTCM` - DTCM: Joint Optimization of Dark Enhancement and Action Recognition in Videos | [Code](https://www.researchgate.net/publication/371698911_DTCM_Joint_Optimization_of_Dark_Enhancement_and_Action_Recognition_in_Videos)
 
+`ECCV 2024` | `WiiD` - Watching it in Dark: A Target-aware Representation Learning Framework for High-Level Vision Tasks in Low Illumination | [Code](https://github.com/ZhangYh994/WiiD)
+
+`ICASSP 2025` | `MFDL` - Advancing Dark Action Recognition via Modality Fusion and Dark-to-Light Diffusion Model | [Code](https://ieeexplore.ieee.org/document/10890723) 
+ 
+
 
 ### <ins>Action recognition datasets for dark videos</ins>
 
