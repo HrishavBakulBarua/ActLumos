@@ -53,7 +53,7 @@ is a positive (pink), while clips from other classes are negatives (green).
 
 We use gamma correction and histogram equalization alongside raw dark frames as input to our pipeline. Visual illustration of Gamma enhanced images and histogram equalised images based 5 different classes of ARID dataset.
 
-![My Image](assets/dataset.png)
+![My Image](assets/channels.png)
 
 
 ### Histograms of dataset
