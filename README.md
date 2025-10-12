@@ -30,6 +30,10 @@ This work is supported by the [`Global Research Excellence Scholarship`](https:/
 
 Action recognition in dark or low-light videos is challenging due to severe visibility degradation that obscures critical spatiotemporal cues. This paper presents ActLumos, a teacher–student framework that achieves single-stream inference efficiency with multi-stream-level accuracy. The teacher network processes dual inputs—original dark frames and Retinex-enhanced frames—through weight-shared R(2+1)D-34 backbones and dynamically fuses them using a Dynamic Feature Fusion (DFF) module, guided by a supervised contrastive loss (SupCon) to enhance class separability. The student network, using only dark frames, is pretrained with self-supervision on unlabeled clips and fine-tuned via knowledge distillation from the teacher, inheriting its multistream knowledge. ActLumos achieves state-of-the-art results with 96.92% (Top-1) on ARID V1.0, 88.27% on ARID V1.5, and 48.96% on Dark48. Ablation studies confirm the effectiveness of each component, demonstrating superior dark-video recognition without additional inference cost.
 
+### Overall Architecture
+
+![My Image](assets/Arch.png)
+
 ### The Dynamic Feature Fusion (DFF) module proposed in our Architecture
 
 ![My Image](assets/DFF.png)
