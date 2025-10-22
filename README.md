@@ -139,7 +139,7 @@ If you find our work (i.e. the code, the theory/concept, or the dataset) useful 
 
 ~~~
 @article{dass2025md,
-  title={MD-BERT: Action Recognition in Dark Videos via Dynamic Multi-Stream Fusion and Temporal Modeling},
+  title={Seeing in the Dark: A Teacher-Student Framework for Dark Video Action Recognition via Knowledge Distillation and Contrastive Learning},
   author={Dass, Sharana Dharshikgan Suresh and Barua, Hrishav Bakul and Krishnasamy, Ganesh and Paramesran, Raveendran and Phan, Raphael C-W},
   journal={arXiv preprint arXiv:2502.03724},
   year={2025}
