@@ -152,7 +152,7 @@ If you find our work (i.e. the code, the theory/concept, or the dataset) useful 
 
 ~~~
 ----------------------------------------------------------------------------------------
-Copyright 2024 | All the authors and contributors of this repository as mentioned above.
+Copyright 2025 | All the authors and contributors of this repository as mentioned above.
 ----------------------------------------------------------------------------------------
 
 ~~~
